@@ -67,13 +67,6 @@ window.websiteContent = {
       fulfilled: false
     },
     {
-      icon: "book",
-      title: "Predicting the Next President",
-      subtitle: "von: Allan Lichtman (Taschenbuch)",
-      description: "",
-      fulfilled: false
-    },
-    {
       icon: "tablet",
       title: "PocketBook e-Book Reader 'InkPad 3 Pro' 16 GB Memory 19.8 cm (7.8 Inch) E-Ink Carta Display SMARTlight Wi-Fi IPX8 Metallic Grey",
       subtitle: "",
